@@ -2,7 +2,7 @@
 
 * Lang: python
 * libs:
-	* numpy
-	* tensorflow
+	* numpy https://numpy.org/
+	* tensorflow https://www.tensorflow.org/
 	* json
-	* keras
+	* keras https://keras.io/
