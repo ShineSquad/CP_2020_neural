@@ -6,3 +6,5 @@
 	* tensorflow https://www.tensorflow.org/
 	* json
 	* keras https://keras.io/
+
+* чудес не бывает, невозможно понять нейронки за 12 часов
